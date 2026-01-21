@@ -1,1 +1,21 @@
-404: Not Found
+MIT License
+
+Copyright (c) 2025 Neha Shesherao Gadhave
+
+Permission is hereby granted, free of cost, to any individual obtaining a copy
+of this software and its related documentation files (the "Software"), to use
+the Software without restriction, including but not limited to the rights to
+utilize, copy, alter, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to allow individuals to whom the Software is
+provided to do so, subject to the following conditions:
+
+The copyright notice above and this permission notice shall be included in all
+copies or major portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY TYPE, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR USE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR OR COPYRIGHT HOLDER BE RESPONSIBLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USAGE OR OTHER DEALINGS IN
+THE SOFTWARE.
