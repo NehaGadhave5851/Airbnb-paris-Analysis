@@ -1,1 +1,5 @@
-404: Not Found
+pandas
+numpy
+matplotlib
+seaborn
+jupyter notebook
