@@ -97,7 +97,7 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 Here are some key visualizations from the analysis:
 
   * **Growth of Airbnb Listings in Paris**
-  ![Listings Growth](images/listings_growth.png)
+  ![Listings Growth](https://github.com/NehaGadhave5851/Airbnb-paris-Analysis/blob/main/Images/listings_growth.png)
 
   * **Average Price by Locality**
   ![Price by Locality](https://github.com/NehaGadhave5851/Airbnb-paris-Analysis/blob/main/Images/Locality_price.png)
