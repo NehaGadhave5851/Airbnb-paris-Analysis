@@ -100,7 +100,7 @@ Here are some key visualizations from the analysis:
   ![Listings Growth](https://github.com/NehaGadhave5851/Airbnb-paris-Analysis/blob/main/Images/listings_growth.png)
 
   * **Average Price by Locality**
-  ![Price by Locality](https://github.com/NehaGadhave5851/Airbnb-paris-Analysis/blob/main/Images/Locality_price.png)
+  ![Price by Locality](https://github.com/NehaGadhave5851/Airbnb-paris-Analysis/blob/main/Images/locality%20price.png)
 
   * **Impact of 2017 Regulation on Host Entries**
   ![Regulation Impact](https://github.com/NehaGadhave5851/Airbnb-paris-Analysis/blob/main/Images/Regulaction_impact.png)
